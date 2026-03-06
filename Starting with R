@@ -19,6 +19,11 @@ median_rooms <- median
 median_rooms_without_NA <- median(rooms, na.rm=TRUE)
 #In the environment the result of this command shows and tells us that the median of the vector "rooms" is 2.
 
+#Question 4
+I have uploaded a screenshot of my R Studio interface in my repository. 
+
+
+
 
 
 
